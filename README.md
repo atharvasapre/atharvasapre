@@ -19,9 +19,7 @@ I'm a dedicated data scientist with a strong background in computer engineering,
 - **Libraries**: Numpy, Pandas, Seaborn, Matplotlib, Sci-kit learn, Dplyr, Tidyverse, Gensim, Statsmodels, Scipy, Ggplot2, Cv2, Nltk, Keras, Beautifulsoup, Openpyxl, Plotly, NlpAug, Pytesseract, Pdfreader, Flintrock, Selenium
 - **Tools & Technologies**: Tensorflow, Tableau, Hadoop, PyTorch, AWS (S3, EC2, Athena, SageMaker), PySpark, Salesforce
 
-## 🚀 Passion Projects
-My portfolio includes projects in image segmentation, neural style transfer, recommendation systems, and BERT-based QnA models.
 
 ## 🔍 Let's Connect!
-I'm eager to collaborate on innovative projects and apply my extensive data science skills. [Connect with me on LinkedIn](Your-LinkedIn-URL).
+I'm eager to collaborate on innovative projects and apply my extensive data science skills. [Connect with me on LinkedIn](https://www.linkedin.com/in/atharvasapre/).
 
