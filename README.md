@@ -23,3 +23,6 @@ I'm a dedicated data scientist with a strong background in computer engineering,
 ## 🔍 Let's Connect!
 I'm eager to collaborate on innovative projects and apply my extensive data science skills. [Connect with me on LinkedIn](https://www.linkedin.com/in/atharvasapre/).
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/atharvasapre)
+
